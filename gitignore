@@ -1,0 +1,48 @@
+# Build
+/target/
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Maven wrapper
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Environment variables
+.env
+# Build
+/target/
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Maven wrapper
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Environment variables
+.env
